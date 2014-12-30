@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+{% include wrap.html %}
+
+<div class="container mt">
+    <div class="row">
+
+        {% include carousel.html %}
+
+        <div class="col-md-6 col-md-offset-1">
+            <div class="spacing"></div>
+            <h4>{{ page.short }}</h4>
+            {{ content }}
+
+        </div>
+        <div class="col-md-4">
+            <div class="spacing"></div>
+            <h4>Détails de l'évènement</h4>
+            <div class="hline"></div>
+            <p><b>Date :</b> {{ page.dates }}</p>
+            <p><b>Lieu :</b> {{ page.place }} </p>
+            {% for link in page.links %}
+            <p><a href="{{ link }}" target="_blank">{{ link }}</a></p>
+            {% endfor %}
+            <hr>
+            <p><i>photos : {{ page.credits }}</i></p>
+        </div>
+        <div class="col-md-4">
+            <div class="spacing"></div>
+            <h4>Articles liés</h4>
+            <div class="hline"></div>
+                {% for cat in page.postcategory %}
+                    {% for post in site.categories[cat] %}
+                        <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+                    {% endfor %}
+                {% endfor %}
+        </div>
+    </div><!--/row -->
+</div><!--/container -->
+	 
+<!-- linked posts -->

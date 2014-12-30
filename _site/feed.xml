@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="/assets/ico/favicon.ico?v=2">
+
+    <title>ANIMAX</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/assets/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="/assets/css/style.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <!--<link rel="stylesheet" href="/css/main.css">-->
+
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="/assets/js/modernizr.js"></script>
+</head>
+
+    <body>
+        <!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand logo" href="/" alt="ANIMAX"><img src="/assets/img/logo_Animax.png" class="img-responsive"></a>
+    </div>
+    <div class="navbar-collapse collapse navbar-right">
+      <ul class="nav navbar-nav">
+        <li ><a href="/blog/">BLOG</a></li>
+        <li ><a href="/a-propos/">A PROPOS</a></li>
+        <li ><a href="/contact/">CONTACT</a></li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div>
+</div>
+
+            <?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ANIMAX</title>
+    <description>Le lab du management</description>
+    <link>http://animax.management/</link>
+    <atom:link href="http://animax.management/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 30 Dec 2014 16:30:06 -0500</pubDate>
+    <lastBuildDate>Tue, 30 Dec 2014 16:30:06 -0500</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Project: Voyageo</title>
+        <description>&lt;p&gt;C’est une solution qui répond à la performance de l’entreprise en :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;leur redonnant l’envie d’apprendre et d’être acteur de leur évolution,&lt;/li&gt;
+  &lt;li&gt;augmentant leurs compétences de chacun,&lt;/li&gt;
+  &lt;li&gt;favorisant la collaboration entre tous,&lt;/li&gt;
+  &lt;li&gt;motivant chacun à partager ses savoirs, ses compétences et ses envies,&lt;/li&gt;
+  &lt;li&gt;tout en optimisant le budgets de formation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cette solution est innovante car elle repose sur une nouvelle lecture :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;les collaborateurs sont responsables de leur évolution,
+ils définissent, choisissent et valident leur itinéraire de connaissance,&lt;/li&gt;
+  &lt;li&gt;le savoir faire de chacun est valorisé,&lt;/li&gt;
+  &lt;li&gt;le capital savoir de l’entreprise est identifié, auto-alimenté, révélé, pérennisé&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pourquoi utiliser Voyagéo dans l’entreprise :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;si vous pensez que vos collaborateurs subissent leurs formations&lt;/li&gt;
+  &lt;li&gt;si vous pensez que votre retour sur investissement n’est pas optimisé&lt;/li&gt;
+  &lt;li&gt;si vous pensez que la formation est un levier de management&lt;/li&gt;
+  &lt;li&gt;si vous souhaitez optimiser votre budget&lt;/li&gt;
+  &lt;li&gt;C’est voyage qu’il vous faut&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Si nous avions eu 48 h de plus : &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nous aurions prototypé entièrement l’appli&lt;/li&gt;
+  &lt;li&gt;Nous aurions plus travaillé sur la gamification, et la dynamique des miles&lt;/li&gt;
+  &lt;li&gt;Nous aurions été épuisés&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 08 Dec 2014 11:54:46 -0500</pubDate>
+        <link>http://animax.management/manivelle</link>
+        <guid isPermaLink="true">http://animax.management/manivelle</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Iconothèque</title>
+        <description>&lt;h3 id=&quot;objectif&quot;&gt;Objectif&lt;/h3&gt;
+&lt;p&gt;Nous voulons proposer une collection d’icones pertinentes, graphiquement coordonnées, belles et gratuites. C’est un projet ouvert et collaboratif. Quiconque a envie de contribuer est amené à le faire. Nous imaginons aussi que certaines institutions pourraient commanditer une série d’icones propres à leur domaine. Dans ce cas, nous coordonnerons la production des icones, puis les ajouterons au site. Celles-ci seront téléchargeables au même titre que les autres. &lt;/p&gt;
+
+&lt;h3 id=&quot;historique&quot;&gt;Historique&lt;/h3&gt;
+&lt;p&gt;Pour l’édition Montréalaise de Museomix 2014 que nous avons coordonnée, nous avons créé un certain nombre d’icones (et retravaillé d’autres, basées sur les éditions précédentes). Nous avons eu beaucoup de compliments et avons voulu les rendre disponibles. De fil en aiguille, nous avons conçu un site, puis la liste d’icones s’est allongée… Et voilà le résultat ! &lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Nov 2014 11:54:46 -0500</pubDate>
+        <link>http://animax.management/icons</link>
+        <guid isPermaLink="true">http://animax.management/icons</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog: Atelier de lancement pour Manivelle !</title>
+        <description>&lt;p&gt;L’équipe du projet Manivelle, constituée par Espaces Temps s’est réunie pour la première fois à l’atelier TinkTank pour une journée de créativité et de prototypage.&lt;/p&gt;
+
+&lt;p&gt;&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Nous avons donc accueilli cette équipe, d’une douzaine de personnes aux profils variés pour imaginer ensemble les possibilités du projet Manivelle. Après avoir pris le temps pour chacun de se présenter, nous avons tenté de synthétiser le projet Manivelle, à l’aide d’un schéma de fonctionnement constitué ensemble.&lt;/p&gt;
+
+&lt;p&gt;Puis l’après-midi a été réservée à du prototypage. Nous avons réuni les participants en petites équipes ayant chacune à fabriquer un prototype de Manivelle. A leur disposition : du carton, du papier, des ciseaux, de la ficelle, etc. Chaque personne avait aussi tiré au sort un utilisateur potentiel de Manivelle et devait, en construisant la proposition, garder en tête les intérêts de cet utilisateur. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/blog/atelierManivelle4.jpg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/blog/atelierManivelle5.jpg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Chaque équipe a ensuite présenté sa proposition aux autres. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/blog/atelierManivelle7.jpg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le fait de prototyper, même de manière simple, a forcé les participants à prendre des décisions et à les mettre en pratique. Certaines propositions sont, sans aucun doute, venues boulverser certains aspects qui avaient été pensés commme ‘aquis’ sur le projet. &lt;/p&gt;
+
+&lt;p&gt;L’atelier a aussi permis à tout le monde de se rencontrer et de prendre ses marques les uns par rapport aux autres, tout en donnant une forte dynamique au projet. &lt;/p&gt;
+
+&lt;p&gt;TinkTank a conçu une série de 7 ateliers sur 31 semaines, alternant phases de prototypage et d’expérimentation in-situ afin d’arriver à une ‘V1’ de la Manivelle. Nous avons hâte de retrouver toute l’équipe début 2015 et de passer au prototypage fonctionnel !&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Crédits photos : Lucie Brillouet&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Nov 2014 00:00:00 -0500</pubDate>
+        <link>http://animax.management/premier-atelier-manivelle</link>
+        <guid isPermaLink="true">http://animax.management/premier-atelier-manivelle</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>manivelle</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog: Les ingrédients magiques de Museomix</title>
+        <description>&lt;p&gt;Il s’est réellement passé quelque chose pendant les 3 jours de Museomix au Musée des beaux-arts. Tout ceux qui y étaient pourront vous le dire. Mais quoi ? Comment ? Qu’est-ce qui fait de Museomix un événement si spécial ? C’est ce que nous avons voulu analyser. &lt;/p&gt;
+
+&lt;p&gt;Il y a bien sûr le format court et intense, les équipes pluri-disciplinaires… Mais cela est commun à (presque) tous les hackathons. Il faut donc aller chercher plus loin… &lt;/p&gt;
+
+&lt;p&gt;&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Nous pensons que celà est dû à 5 principes, qui peuvent être appliqués bien au delà des événements courts : &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;un cadre exceptionnel donne des résultats exceptionnels&lt;/strong&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;la compétition n’est pas un facteur de motivation&lt;/strong&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;définir des zones de permission&lt;/strong&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;réconcilier ‘la tête et la main’&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;encourager la créativité plutôt que la ‘résolution de problème’&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;un-cadre-exceptionnel-donne-des-rsultats-exceptionnels&quot;&gt;Un cadre exceptionnel donne des résultats exceptionnels&lt;/h3&gt;
+&lt;p&gt;Il n’y a pas de doute, travailler au coeur d’un musée - et un musée prestigieux comme le Musée des beaux-arts - contribue déjà à créer déjà un cadre exceptionnel. Mais nous avons mis beaucoup d’énergie aussi cette année, à transformer les espaces de travail pour les rendre spéciaux. Les coussins FatBoy, le vélo-café &lt;a href=&quot;https://www.facebook.com/cafepista&quot;&gt;Pista&lt;/a&gt;, l’aménagement de la Bébelle Box, tout cela a ajouté à la beauté du cadre. Nous avons aussi apporté un grand soin à la nourriture servie pendant les 3 jours : soupes, légumes, etc. Le traiteur &lt;a href=&quot;http://www.soupesoup.com/&quot;&gt;SoupeSoup&lt;/a&gt; a fait l’unanimité… &lt;/p&gt;
+
+&lt;h3 id=&quot;la-comptition-nest-pas-un-facteur-de-motivation&quot;&gt;La compétition n’est pas un facteur de motivation&lt;/h3&gt;
+&lt;p&gt;Ce point est peut-être la plus grosse rupture avec les formats hackathons ‘classiques’. Depuis son origine en 2011 à Paris, Museomix s’est positionné comme un événement sans gagnant. Pas besoin de ‘carotte’ pour que les gens donnent le meilleur d’eux-mêmes. Cela a été prouvé de nouveau à chaque édition de Museomix, et cette année encore. Cela permet d’encourager l’entraide entre les équipes et, plus généralement, de créer une atmosphère de collaboration, plutôt que de compétition. Assurément, chaque année, environ 30% des prototypes trouvent une vie après Museomix, dans le musée hôte ou ailleurs, mais ils ne sont pas pour autant les prototypes ‘gagnants’…  &lt;/p&gt;
+
+&lt;h3 id=&quot;dfinir-des-zones-de-permission&quot;&gt;Définir des zones de permission&lt;/h3&gt;
+&lt;p&gt;Nous avons mis une grande énergie dans le deisgn des ‘terrains de jeux’, les thèmes de travail, mis au point avec le musée et proposés aux participants à leur arrivée. Ils étaient là, non pour guider les équipes vers des projets, mais pour servir de &lt;em&gt;conversation-starters&lt;/em&gt;. C’est un dur équilibre à trouver entre des projets ‘libres’ et des projets ‘pré-définis’. &lt;/p&gt;
+
+&lt;p&gt;L’idée est d’offrir un cadre, à l’image d’une &lt;em&gt;sandbox&lt;/em&gt; dans le développement logiciel. Une &lt;em&gt;sandbox&lt;/em&gt;, ou un bac à sable, est un espace protégé où on peut tester des logiciels dans leur version non finale sans qu’ils influencent ‘les espaces réels’. Un &lt;em&gt;sandbox game&lt;/em&gt; désigne aussi un jeu (comme Minecraft) où le joueur est libre de construire ce qu’il veut (dans la limite des règles qui ont été fixées par les concepteurs du jeu). &lt;/p&gt;
+
+&lt;p&gt;Ce sont ces zones de permission (elles-mêmes très définies) qui permettent aux participants d’être créatifs. &lt;/p&gt;
+
+&lt;h3 id=&quot;rconcilier-la-tte-et-la-main&quot;&gt;Réconcilier ‘la tête et la main’&lt;/h3&gt;
+&lt;p&gt;C’est ce que propose Richard Sennett dans &lt;a href=&quot;http://fr.wikipedia.org/wiki/Richard_Sennett&quot;&gt;ce que sait la main&lt;/a&gt; et c’est au coeur de la volonté de Museomix. Naturellement, les équipes, au moment où elles se forment, ont envie de détailler leur projet dans tous ses aspects avant de se mettre au travail. Mais ces discussions peuvent durer des heures, sans résultat concrêt. C’est pourquoi le design de l’événement force les participants à passer très vite au prototypage. C’est en travaillant sur leur prototype qu’ils vont résoudre des problèmes, répondre aux questions qu’ils se posent. Bref, &lt;strong&gt;construire aide à penser.&lt;/strong&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;encourager-la-crativit-plutt-que-la-rsolution-de-problme&quot;&gt;Encourager la créativité plutôt que la ‘résolution de problème’&lt;/h3&gt;
+&lt;p&gt;C’est un aspect qui s’améliore d’année en année dans Museomix. Cette année, nous avons proposé des ‘thèmes’, mais nous avons fait attention à ce qu’aucun de ceux-là ne soit lié à des problèmes du musée. Soyons réalistes : en 2 jours, il est difficile (impossible ?) de résoudre des problème complexes (et les participants ne sont pas là pour ça). En abordant les projets par le côté ‘problème’, on finit toujours par se heurter à des réalités qui vont rendre impossible son évolution. Mais en se laissant la place de rêver, on abouti à des projets beaucoup plus ambitieux et, finalement, plus pertinents. &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Crédits photo : Portraits de Montréal - équipe ‘la vie secrète des oeuvres’&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Nov 2014 00:00:00 -0500</pubDate>
+        <link>http://animax.management/la-magie-Museomix</link>
+        <guid isPermaLink="true">http://animax.management/la-magie-Museomix</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>museomix</category>
+        
+        <category>analyse</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Plateforme de documentation de projets collaboratifs</title>
+        <description>&lt;h4 id=&quot;un-outil-de-documentation-pour-museomix&quot;&gt;Un outil de documentation pour Museomix&lt;/h4&gt;
+&lt;p&gt;Depuis l’origine de Museomix, en 2011 à Paris, la volonté a été de documenter les projets réalisés par les participants. Mais ceci a été fait de manière plus ou moins réussie, en essayant plusieurs méthodes, successivement… À Montréal, nous avons finalement proposé au reste de la communauté internationale de développer une plateforme spécifique. Elle est testée localement à Montréal pour l’édition de 2014, avec l’ambition de servir les projets internationaux en 2015. &lt;/p&gt;
+
+&lt;h4 id=&quot;fonctionnalits&quot;&gt;Fonctionnalités&lt;/h4&gt;
+&lt;p&gt;La plateforme est développée en Node.js, ce qui lui permet d’être réactive en temps réel. 
+Les utilisateurs peuvent facilement créer un compte, puis lancer un projet, sur lequel ils peuvent inviter d’autres utilisateurs. Les projets sont ensuite découpés en deux parties principales (description et instructions), chacune permettant d’ajouter du texte, des images, vidéos et fichiers. &lt;/p&gt;
+
+&lt;h4 id=&quot;et-aprs-&quot;&gt;Et après ?&lt;/h4&gt;
+&lt;p&gt;Nous voulons que la plateforme permette aux projets de vivre au-delà de l’événement, par exemple en permettant aux porteurs de projets de poster des ‘updates’. 
+Nous voulons aussi tester la plateforme sur d’autres événements que Museomix et sur d’autres sujets. &lt;/p&gt;
+
+&lt;h4 id=&quot;un-manque--combler-&quot;&gt;Un manque à combler ?&lt;/h4&gt;
+&lt;p&gt;Aujourd’hui, aucune plateforme ne permet de documenter des projets collaboratifs, non finis, qui mélangent &lt;em&gt;hardware&lt;/em&gt; et &lt;em&gt;software&lt;/em&gt;. C’est l’objectif que nous nous donnons avec cette plateforme. &lt;/p&gt;
+
+&lt;p&gt;Si le projet vous intéresse, que vous voulez contribuer et / ou l’expérimenter, n’hésitez pas à nous contacter.  &lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Oct 2014 12:54:46 -0400</pubDate>
+        <link>http://animax.management/platform</link>
+        <guid isPermaLink="true">http://animax.management/platform</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog: Lancement réussi pour SpaceApps MTL</title>
+        <description>&lt;p&gt;TinkTank a pris en charge l’organisation de Space Apps à Montréal en 2014. Nous avons envahi le Planétarium Rio Tinto Alcan pour 2 jours de fun autour de l’exploration spatiale ! &lt;/p&gt;
+
+&lt;p&gt;Nous avions réuni une bonne quantité d’équipement pour permettre aux participants d’imaginer des choses les plus folles possibles. Une imprimante 3D, un Oculus Rift, des Arduinos, des Kinects, et même une paire de Google Glasses ! &lt;/p&gt;
+
+&lt;p&gt;Nous avons d’avord fait une soirée de lancement le vendredi soir chez OLAM, sur St Laurent pour commencer à former les équipes. &lt;/p&gt;
+
+&lt;p&gt;&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Voilà deux vidéos qui montrent l’ambiance de l’événement : &lt;/p&gt;
+
+&lt;iframe src=&quot;//player.vimeo.com/video/92189174&quot; width=&quot;960&quot; height=&quot;540&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Et celle faite par &lt;a href=&quot;http://portraitsdemontreal.com/&quot;&gt;Portraits de Montréal&lt;/a&gt; :&lt;/p&gt;
+
+&lt;iframe src=&quot;//player.vimeo.com/video/92353616&quot; width=&quot;960&quot; height=&quot;540&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Plus de photos &lt;a href=&quot;https://www.facebook.com/media/set/?set=oa.1459615027609122&amp;amp;type=1&quot;&gt;ici&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;Merci à tous ceux qui ont participé, à Google et Dynavision pour leur confiance, au Planétarium pour leur engagement, à Ile Sans Fil pour le WIFI, à Montréal New Tech pour leur couverture de l’événement et à Portraits de Montréal pour leurs photos ! 
+A l’année prochaine pour une nouvelle édition ! &lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 May 2014 00:00:00 -0400</pubDate>
+        <link>http://animax.management/spaceapps</link>
+        <guid isPermaLink="true">http://animax.management/spaceapps</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>spaceapps</category>
+        
+        <category>international</category>
+        
+      </item>
+    
+      <item>
+        <title>Event: International Space Apps Challenge</title>
+        <description>&lt;p&gt;Space Apps Challenge est un &lt;em&gt;hackathon&lt;/em&gt; international de deux jours où des équipes de techniciens, scientifiques, designers, artistes, éducateurs, entrepreneurs, développeurs, et étudiants collaborent à travers le monde, en utilisant les données publiques afin de concevoir des solutions innovantes à des défis globaux en matière de développement logiciel, science citoyenne, hardware ou visualisation de données. &lt;/p&gt;
+
+&lt;p&gt;Pour l’événement de 2013, plus de 9000 citoyens dans 44 pays et 83 villes du monde ont collaboré ensemble et avec la NASA pour le plus grand hackathon de l’histoire, pour créer 770 solutions!&lt;/p&gt;
+
+&lt;p&gt;Les équipes Space Apps peuvent créer leur projet parmi une large sélection de problèmes significatifs et importants identifiés par la NASA. Des défis sont organisés selon quatre catégories - logiciel, hardware, visualisation de donnée et science citoyenne. &lt;/p&gt;
+
+&lt;p&gt;Les challenges de l’évènement 2014 étaient organisés autour de 5 thèmes: la robotique, la technologie spatiale, les vols spatiaux habités, la surveillance de la Terre et les astéroïdes. En plus de ça, des challenges ‘donnée’ et ‘éducation’ étaient proposés dans chacun de ces sujets. &lt;/p&gt;
+
+&lt;p&gt;TinkTank est l’organisateur de l’édition Montréalaise du Space Apps Challenge.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 13 May 2014 00:00:00 -0400</pubDate>
+        <link>http://animax.management/spaceapps</link>
+        <guid isPermaLink="true">http://animax.management/spaceapps</guid>
+        
+        
+        <category>event</category>
+        
+      </item>
+    
+  </channel>
+</rss>
+
+
+        <div id="footerwrap">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <h4>A propos</h4>
+                <div class="hline-w"></div>
+                <p>Animax : Le lab du management</p>
+                <p>Le collectif Animax réunit une équipe de professionnels avec l'envie commune de vouloir insufler une nouvelle manière de faire du management.</p>
+            </div>
+            <div class="col-sm-3">
+                <h4>Crédits et licence</h4>
+                <div class="hline-w"></div>
+                <p>Tous les textes de notre site sont sous licence <a href="https://creativecommons.org/licenses/by/3.0/fr/">Creative Commons 3.0 Share Alike.</a> Les images sont soumises aux licences de leurs créateurs.</p>
+                <p>Notre site est construit avec <a href="http://jekyllrb.com/">Jekyll</a> à partir du thème <a href="https://github.com/st4ple/solid-jekyll">Solid.</a></p>
+                <p><a href="https://github.com/TinkTankMTL/TinkTankMTL.github.io"><i class="fa fa-github"></i></a></p>
+            </div>
+            <div class="col-sm-3">
+                <h4>L'atelier</h4>
+                <div class="hline-w"></div>
+                <p>
+                    
+                        Une adresse <br>
+                    
+                </p>
+                <p>
+                    
+                        <a href="https://www.facebook.com/groups/1459614080942550/" class="btn-social btn-outline"><i class="fa fa-facebook"></i></a>
+                    
+                        <a href="http://twitter.com/animax" class="btn-social btn-outline"><i class="fa fa-twitter"></i></a>
+                    
+                </p>
+            </div>
+        </div> <!--/row -->
+    </div> <!--/container -->
+</div> <!--/footerwrap -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="/assets/js/bootstrap.min.js"></script>
+<script src="/assets/js/retina-1.1.0.js"></script>
+<script src="/assets/js/jquery.hoverdir.js"></script>
+<script src="/assets/js/jquery.hoverex.min.js"></script>
+<script src="/assets/js/jquery.prettyPhoto.js"></script>
+<script src="/assets/js/jquery.isotope.min.js"></script>
+<script src="/assets/js/custom.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', '', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script>
+// Portfolio
+(function($) {
+	"use strict";
+	var $container = $('.portfolio'),
+		$items = $container.find('.portfolio-item'),
+		portfolioLayout = 'fitRows';
+		
+		if( $container.hasClass('portfolio-centered') ) {
+			portfolioLayout = 'masonry';
+		}
+				
+		$container.isotope({
+			filter: '*',
+			animationEngine: 'best-available',
+			layoutMode: portfolioLayout,
+			animationOptions: {
+			duration: 750,
+			easing: 'linear',
+			queue: false
+		},
+		masonry: {
+		}
+		}, refreshWaypoints());
+		
+		function refreshWaypoints() {
+			setTimeout(function() {
+			}, 1000);   
+		}
+				
+		$('nav.portfolio-filter ul a').on('click', function() {
+				var selector = $(this).attr('data-filter');
+				$container.isotope({ filter: selector }, refreshWaypoints());
+				$('nav.portfolio-filter ul a').removeClass('active');
+				$(this).addClass('active');
+				return false;
+		});
+		
+		function getColumnNumber() { 
+			var winWidth = $(window).width(), 
+			columnNumber = 1;
+		
+			if (winWidth > 1200) {
+				columnNumber = 5;
+			} else if (winWidth > 950) {
+				columnNumber = 4;
+			} else if (winWidth > 600) {
+				columnNumber = 3;
+			} else if (winWidth > 400) {
+				columnNumber = 2;
+			} else if (winWidth > 250) {
+				columnNumber = 1;
+			}
+				return columnNumber;
+			}       
+			
+			function setColumns() {
+				var winWidth = $(window).width(), 
+				columnNumber = getColumnNumber(), 
+				itemWidth = Math.floor(winWidth / columnNumber);
+				
+				$container.find('.portfolio-item').each(function() { 
+					$(this).css( { 
+					width : itemWidth + 'px' 
+				});
+			});
+		}
+		
+		function setPortfolio() { 
+			setColumns();
+			$container.isotope('reLayout');
+		}
+			
+		$container.imagesLoaded(function () { 
+			setPortfolio();
+		});
+		
+		$(window).on('resize', function () { 
+		setPortfolio();          
+	});
+})(jQuery);
+</script>
+        <script src="/assets/js/fluidvids.js"></script>
+        <script>
+        fluidvids.init({
+          selector: ['iframe'],
+          players: ['www.youtube.com', 'player.vimeo.com']
+        });
+        </script>
+    </body>
+</html>

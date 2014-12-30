@@ -1,0 +1,48 @@
+---
+layout: index
+title: Home
+permalink: /
+---
+<div class="spacer"></div>
+<div id="service">
+    <div class="container">
+        <div class="row centered">
+            <h3>Nos principes</h3>
+            <hr>
+            <h3></h3>
+
+            {% for principe in site.principes %}
+            <div class="col-md-4">
+                <i class="fa fa-{{ principe.faicon }}"></i>
+                <h4>{{ principe.name }}</h4>
+                <p>{{ principe.texte }}</p>
+            </div>
+            {% endfor %}	
+            <div class="col-md-12">
+                <a href="/a-propos/" class="btn btn-theme">En savoir plus</a>
+            </div>		
+        </div>
+    </div> <!--/container -->
+</div> <!--/service -->
+
+{% include project-portfolio2.html title="Projets" limit=6 %}
+
+{% include blog-roll-hp.html title="Articles récents" limit=3 %}
+
+{% include questions.html title="Des questions ?" %}
+
+<!-- 
+<div class="container mtb">
+    <div class="row">
+
+        <div class="col-md-4">
+            <h4>Articles récents</h4>
+            <div class="hline"></div>
+            {% for post in site.categories['blog'] limit:5 %} 
+                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
+            {% endfor %} 
+        </div>
+
+    </div> 
+</div> 
+-->

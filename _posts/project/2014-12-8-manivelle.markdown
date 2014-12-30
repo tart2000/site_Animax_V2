@@ -1,0 +1,53 @@
+---
+layout: project
+title:  "Voyageo"
+baseline: "Plateforme de partage et d’acquisition de connaissance de collaborateur à collaborateur."
+videolink: "114807565"
+date:   2014-12-8 16:54:46
+categories:
+- project
+img: manivelle.jpg
+carousel:
+- manivelle1.jpg
+- manivelle2.jpg
+- manivelle3.jpg
+- manivelle4.jpg
+team: 
+- name: John Good 
+  link: http://linkedin.com
+- name: Fred Perry 
+  link: http://linkedin.com
+facilitator:
+- name: Some Guy
+  link: http://linkedin.com
+
+---
+
+C'est une solution qui répond à la performance de l'entreprise en :
+
+- leur redonnant l’envie d’apprendre et d’être acteur de leur évolution,
+- augmentant leurs compétences de chacun,
+- favorisant la collaboration entre tous,
+- motivant chacun à partager ses savoirs, ses compétences et ses envies,
+- tout en optimisant le budgets de formation
+
+Cette solution est innovante car elle repose sur une nouvelle lecture :
+
+- les collaborateurs sont responsables de leur évolution,
+ils définissent, choisissent et valident leur itinéraire de connaissance,
+- le savoir faire de chacun est valorisé,
+- le capital savoir de l’entreprise est identifié, auto-alimenté, révélé, pérennisé
+
+Pourquoi utiliser Voyagéo dans l'entreprise :
+
+- si vous pensez que vos collaborateurs subissent leurs formations
+- si vous pensez que votre retour sur investissement n’est pas optimisé
+- si vous pensez que la formation est un levier de management
+- si vous souhaitez optimiser votre budget
+- C’est voyage qu’il vous faut
+
+Si nous avions eu 48 h de plus : 
+
+- Nous aurions prototypé entièrement l’appli
+- Nous aurions plus travaillé sur la gamification, et la dynamique des miles
+- Nous aurions été épuisés

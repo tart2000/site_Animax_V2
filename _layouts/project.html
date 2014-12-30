@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+{% include wrap.html %}
+
+<div class="container mt">
+    <div class="row">
+
+        <div class="col-md-7 col-md-offset-1">
+            <iframe src="//player.vimeo.com/video/{{page.videolink}}?portrait=0" width="5" height="3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+            <h4>{{ page.baseline }}</h4>
+
+            {{ content }}
+
+        </div>
+        <div class="col-md-3">
+            <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ page.img }}" class="responsive-img">   
+            <div class="spacing"></div>
+            <p><b>Equipe :</b>
+            <ul> 
+                {% for people in page.team %}
+                <li><a href="{{ people.link }}">{{ people.name }}</a></li>
+                {% endfor %}
+            </ul>
+            </p>
+            {% if page.facilitator %}
+            <b>Facilitateur</b>
+            <ul>
+                {% for people in page.facilitator %}
+                <li><a href="{{ people.link }}">{{ people.name }}</a></li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        </div>
+    </div> <!--/row -->
+</div> <!--/container -->
+	 
