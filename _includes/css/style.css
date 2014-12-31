@@ -185,6 +185,7 @@ a:focus {
 	min-height: 70px;
 	padding-top: 10px;
 	margin-bottom: 0px;
+	border-bottom: 1px solid #F4F4F4 !important;
 }
 
 .navbar-brand {
@@ -417,10 +418,7 @@ a:focus {
 }
 
 /* clients logo */
-#cwrap {
-	margin-top: 0px;
-	padding-top: 80px;
-}
+
 
 /* Footer */
 #footerwrap {
@@ -440,7 +438,7 @@ a:focus {
 #footerwrap i {
 	font-size: 30px;
 	color: {{ site.colors.footer_content }};
-	padding-right: 25px;
+	padding-right: 15px;
 }
 
 #footerwrap i:hover {
@@ -561,3 +559,4 @@ a.anchor{
 	padding-left: 10px;
 	padding-right: 10px;
 }
+

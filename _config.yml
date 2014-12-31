@@ -18,7 +18,7 @@ colors:  #in hex code if not noted else
   secondary: "#ffffff" #"#33004D"
   link: "#428bca"
   link_hover: "#01b2fe"
-  footer_heading: "#ffffff"
+  footer_heading: "#bfc9d3"
   footer_content: "#bfc9d3"
   
   
@@ -27,50 +27,103 @@ colors:  #in hex code if not noted else
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: facebook
-    url: https://www.facebook.com/groups/1459614080942550/
+    url: https://www.facebook.com/labanimax
   - title: twitter
-    url: http://twitter.com/animax
+    url: http://twitter.com/AnimaxLab
+  - title: linkedin
+    url: http://www.linkedin.com/company/animaxlab
 
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - Une adresse 
+    - Collectif Animax
+    - 6 rue Clément 69130 ECULLY
+    - FRANCE
 email: bonjour@animax.management
-tel: +33 (0) 619 58 85 50
+tel: 06 13 68 14 25
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
     
 # Members information. Shown on About page.
 members:
+  - name: Raphaël Balay
+    position: "Dirigeant fondateur de M-Evolution, conseil et formation en communication, management et création d’esprit d’équipe"
+    text: "Raphael accompagne depuis plus de 20 ans des dirigeants, managers et commerciaux à se dépasser. Il s’engage au quotidien à libérer les Hommes et les équipes des freins qui les empêchent d’oser entreprendre. Il rêve ainsi de pouvoir faire bouger l’économie française. Il milite pour que chacun puisse être heureux dans sa fonction,étant persuadé que c’est la meilleure façon de s’engager pleinement et d’être performant dans sa fonction. Diplômé de I’FAG Lyon, Maitre praticien en PNL, accrédité au MBTI I et II, patricien EFT, il est également membre du Réseau Entreprendre et d’Entrepreneurs d’Avenir. Spécialiste en développement personnel et en leadership, il a été formé aux USA par Robert Dilst, David Gordon et Anthony Robbins. Il a créé en 2011 Campus Evolution, qui propose un parcours de formation pour libérer ses talents et oser entreprendre."
+    img: raphael.jpg 
+    site: http://oser-entreprendre.fr/
+    social:
+    - title: envelope
+      url: mailto:rbalay@mevolution.fr
+    tel: 06 13 68 14 25
+  - name: Corinne Lapras
+    position: "Dirigeante fondatrice de Corpoé, spécialiste de l’esprit pionnier : stratégie, marketing, communication"
+    text: "Diplomée de l'EMLyon, formée aux ressources humaines et à l'intelligence économique, Corinne met au service des décideurs et de leurs équipes, ses 25 années d'expérience et son expertise opérationnelle dans la gestion de projet. Elle a crée en 2006, Corpoé pour contribuer à la performance des entreprises et des organisation par ce qu'elle appelle l'esprit pionnier (inventivité, agilité, solidarité, frugalité). Elle a reçu le prix de l’Audace aux Trophées des Femmes décideurs Rhône-Alpes (2009) et le prix Lagardère de la Femme communicante aux Trophées des Femmes de l’économie Rhône-Alpes (2012). Dans Animax, elle apporte sa passion pour l’innovation, son expérience des projets de changement dans l’entreprise, son énergie pour faire émerger et exister des idées."
+    img: corinne.jpg
+    social: 
+    - title: linkedin
+      url: http://fr.linkedin.com/pub/corinne-lapras/38/358/237/en
+    - title: envelope
+      url: mailto:corinne.lapras@corpoe.com
+    site: http://corpoe.com/
+    tel: 06 19 58 85 50
+  - name: Marc Rousse
+    position: "Dirigeant fondateur d’Azoka, créateur de joie dans l’entreprise"
+    text: "Marc est diplômé d’HEC Paris (Executive Coaching II Expertise et Perfectionnement), Maître Praticien en PNL, diplômé en Théologie et membre fondateur de la fondation Emergences (mécénat de compétences). Animé par une triple passion, l’Homme, l’Entreprise et la quête de sens, sa conviction est que chacun a les compétences nécessaires à sa réussite. Son engagement : rechercher et travailler à la mise en place des conditions permettant la libération des compétences au sein de l’entreprise, pour plus d’épanouissement personnel et de réussite collective. L’aventure entrepreneuriale, le management de projets et d’équipes, Marc les expérimente depuis plus de 30 ans. Marc partage avec les co-fondateurs d’Animax la même motivation et la même utopie ; faire bouger les lignes du management traditionnel et ainsi contribuer à réveiller notre économie et faire bouger la France. Il apporte sa double expertise de l’entreprise en qualité de créateur dirigeant et de consultant coach en management et communication, ses compétences organisationnelles, sa détermination à faire gagner l’entreprise en libérant les talents et les organisations."
+    img: marc.jpg
+    site: http://azoka.com/
+    tel: 06 88 21 60 58
+    social: 
+    - title: envelope
+      url: marc.rousse@azoka.fr
+    - title: linkedin
+      url: http://www.linkedin.com/pub/marc-rousse/12/311/13
+  - name: 
+    position: 
+    text:
+    img:
+    site: 
+    tel: 
+    social: 
+    - title: envelope
+      url: 
+  - name: 
+    position: 
+    text:
+    img:
+    site: 
+    tel: 
+    social: 
+    - title: envelope
+      url: 
+  - name: 
+    position: 
+    text:
+    img:
+    site: 
+    tel: 
+    social: 
+    - title: envelope
+      url: 
+  - name: 
+    position: 
+    text:
+    img:
+    site: 
+    tel: 
+    social: 
+    - title: envelope
+      url: 
   - name: Arthur Schmitt 
     position: Lead prototypage
     text: "Ingénieur (ENSAM, Imperial College) et designer (RCA), Arthur est passionné par les nouvelles technologies et les pratiques collaboratives. Installé depuis un an à Montréal, il a auparavant participé à l’émergence des fablabs en France, notamment en contribuant à l'ouverture du premier fablab dans le centre de Paris."
-    img: arthur_carre.jpg
+    img: arthur.jpg
     social:
       - title: envelope #use for email address
         url: mailto:arthur@tinktank.org
       - title: twitter
         url: http://twitter.com/tart2000
-  - name: Justine G. Chapleau
-    position: Lead projets
-    text: "Graduée de la maîtrise en Muséologie à l’UdeM et à l’UQÀM où elle s’est spécialisée dans la reconnaissance et le recensement des initiatives de hacking culturel en milieu muséal, Justine tente toujours de repousser les limites préétablies en réalisant des projets multidisciplinaires."
-    img: justine_carre.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:justine@tinktank.org
-      - title: twitter
-        url: http://twitter.com/justineGChaplea
-  - name: Lucie Brillouet 
-    position: Lead design 
-    text: "Diplômée en design industriel (BDI / UdeM) et graduée du DESS in Communication Studies (Concordia), sa soif de culture ne s’arrête pas là. Après avoir mis un pied dans l’organisation d’événement culturel grâce au festival Art Souterrain, Lucie souhaite accompagner l’émergence de nouvelles pratiques collaboratives au croisement de la culture, du design et des nouvelles technologies."
-    img: lucie_carre.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:lucie@tinktank.org
-      - title: twitter
-        url: http://twitter.com/Lucie_Brllt
 
     
 # Clients information. Shown on Home and About pages.

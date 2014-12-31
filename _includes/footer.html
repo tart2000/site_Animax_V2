@@ -1,30 +1,26 @@
 <div id="footerwrap">
     <div class="container">
         <div class="row">
-            <div class="col-sm-6">
+            <div class="col-sm-5">
                 <h4>A propos</h4>
                 <div class="hline-w"></div>
                 <p>{{ site.about }}</p>
                 <p>{{ site.about_plus }}</p>
-            </div>
-            <div class="col-sm-3">
-                <h4>Crédits et licence</h4>
-                <div class="hline-w"></div>
-                <p>Tous les textes de notre site sont sous licence <a href="https://creativecommons.org/licenses/by/3.0/fr/">Creative Commons 3.0 Share Alike.</a> Les images sont soumises aux licences de leurs créateurs.</p>
                 <p>Notre site est construit avec <a href="http://jekyllrb.com/">Jekyll</a> à partir du thème <a href="https://github.com/st4ple/solid-jekyll">Solid.</a></p>
                 <p><a href="https://github.com/TinkTankMTL/TinkTankMTL.github.io"><i class="fa fa-github"></i></a></p>
             </div>
-            <div class="col-sm-3">
-                <h4>L'atelier</h4>
-                <div class="hline-w"></div>
-                <p>
-                    {% for line in site.address.first.lines %}
-                        {{ line }} <br>
-                    {% endfor %}
-                </p>
-                <p>
+            <div class="col-sm-2">
+                <img src="{{ "/assets/img/logo_Animax_nb.png" | prepend: site.baseurl }}" class="img-responsive">
+                <div class="spacing"></div>
                     {% for network in site.social %}
                         <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a>
+                    {% endfor %}
+            </div>
+            <div class="col-sm-5">
+                <h4 style="text-align:right;">Contact</h4>
+                <p style="text-align:right;">
+                    {% for line in site.address.first.lines %}
+                        {{ line }} <br>
                     {% endfor %}
                 </p>
             </div>

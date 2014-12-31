@@ -25,7 +25,17 @@ permalink: /
     </div> <!--/container -->
 </div> <!--/service -->
 
-{% include project-portfolio2.html title="Projets" limit=6 %}
+<div class="container">
+    <div class="row centered">
+        <h1>Première édition</h1>
+        {% include project-portfolio2.html title="Projets" limit=6 %}
+
+{% include clients.html %}
+    </div> <!--/row -->
+</div> <!--/container -->
+
+
+
 
 {% include blog-roll-hp.html title="Articles récents" limit=3 %}
 
