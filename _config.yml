@@ -145,26 +145,35 @@ clients:
 principes:
   - name: Prototypage
     faicon: cubes
-    texte: "Le prototype est au coeur de notre philosophie de travail et de nos projets. Il permet de tester rapidement des idées et de réunir une équipe autour d'un concept."
+    texte: "Bla bla bla"
   - name: Collaboration 
     faicon: comments
-    texte: "Notre passion : faire travailler les gens de manière collaborative. Pour cela, nous expérimentons en permanence avec les nouvelles pratiques et les nouveaux outils."
+    texte: "Bla bla bla"
   - name: Ouverture
     faicon: unlock
-    texte: "Nous pensons qu'à l'heure du numérique, l'innovation doit passer par l'ouverture et le partage. C'est pourquoi tous les projets que nous développons sont documentés et partagés."
+    texte: "Bla bla bla"
 
 # Questions 
 questions: 
-  - titre: "J'ai une idée de projet, est-ce que je peux vous en parler ?"
-    reponse: "Oui !"
+  - titre: "Dois-je savoir coder pour m'inscrire ?"
+    reponse: "Non! Tout le monde peut s'inscrire."
     n: 1
-  - titre: "Travaillez-vous avec des entreprises ?"
-    reponse: "Nous travaillons avec toutes les personnes / institutions / organisations qui portent les mêmes valeurs que nous, sans restrictions. Si c'est votre cas, n'hésitez pas à nous contacter pour en discuter."
+  - titre: "A qui appartiennent les résultats ?"
+    reponse: "A vous ! Ce sont vos idées et elles appartiennent à l'équipe qui les a produites."
     n: 2
+  - titre: "Dois-je être là tout le temps ?"
+    reponse: "Oui, il s'agit de 24h intenses de création et vous avez besoin d'être avec votre équipe tout le long."
+    n: 3
+  - titre: "Puis-je faire payer la participation par mon entreprise ?"
+    reponse: "Oui, bien sûr."
+    n: 4
+  - titre: "Je voudrais moi aussi organiser un événement Animax. Comment faire ?"
+    reponse: "Contactez-nous et nous pourrons vous aider."
+    n: 5
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Animax : Le lab du management"
-about_plus: "Le collectif Animax réunit une équipe de professionnels avec l'envie commune de vouloir insufler une nouvelle manière de faire du management."
+about_plus: "Atelier de création collaborative par prototypage rapide de conception de solutions innovantes pour transformer la management et créer durablement plus de confiance, d'autonomie, d'initiative, d'innovation, de coopération, de performance pour l'entreprise, de satisfaction et de bien-être pour l'Homme au travail."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:

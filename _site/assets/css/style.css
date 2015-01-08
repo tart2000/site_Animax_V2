@@ -86,9 +86,7 @@ hr {
 ul {
 	margin-left: 40px;
 }
-.fa {
-	margin-right: 10px;
-}
+
 .dmbutton .fa {
 	margin-right: 0px;
 }
@@ -176,6 +174,9 @@ a:focus {
 
 .centered {
 	text-align: center
+}
+.left {
+	text-align: left;
 }
 
 /*	################################################################

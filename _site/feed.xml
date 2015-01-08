@@ -64,8 +64,8 @@
     <description>Le lab du management</description>
     <link>http://animax.management/</link>
     <atom:link href="http://animax.management/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 31 Dec 2014 17:45:04 -0500</pubDate>
-    <lastBuildDate>Wed, 31 Dec 2014 17:45:04 -0500</lastBuildDate>
+    <pubDate>Thu, 08 Jan 2015 14:55:55 -0500</pubDate>
+    <lastBuildDate>Thu, 08 Jan 2015 14:55:55 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -108,8 +108,8 @@ ils définissent, choisissent et valident leur itinéraire de connaissance,&lt;/
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 08 Dec 2014 11:54:46 -0500</pubDate>
-        <link>http://animax.management/manivelle</link>
-        <guid isPermaLink="true">http://animax.management/manivelle</guid>
+        <link>http://animax.management/voyageo</link>
+        <guid isPermaLink="true">http://animax.management/voyageo</guid>
         
         
         <category>project</category>
@@ -117,16 +117,132 @@ ils définissent, choisissent et valident leur itinéraire de connaissance,&lt;/
       </item>
     
       <item>
-        <title>Project: Iconothèque</title>
-        <description>&lt;h3 id=&quot;objectif&quot;&gt;Objectif&lt;/h3&gt;
-&lt;p&gt;Nous voulons proposer une collection d’icones pertinentes, graphiquement coordonnées, belles et gratuites. C’est un projet ouvert et collaboratif. Quiconque a envie de contribuer est amené à le faire. Nous imaginons aussi que certaines institutions pourraient commanditer une série d’icones propres à leur domaine. Dans ce cas, nous coordonnerons la production des icones, puis les ajouterons au site. Celles-ci seront téléchargeables au même titre que les autres. &lt;/p&gt;
+        <title>Project: Shaker</title>
+        <description>&lt;p&gt;Cet outil instaure une gestion de projets innovante qui allie plaisir et efficacité !&lt;/p&gt;
 
-&lt;h3 id=&quot;historique&quot;&gt;Historique&lt;/h3&gt;
-&lt;p&gt;Pour l’édition Montréalaise de Museomix 2014 que nous avons coordonnée, nous avons créé un certain nombre d’icones (et retravaillé d’autres, basées sur les éditions précédentes). Nous avons eu beaucoup de compliments et avons voulu les rendre disponibles. De fil en aiguille, nous avons conçu un site, puis la liste d’icones s’est allongée… Et voilà le résultat ! &lt;/p&gt;
+&lt;p&gt;Nous rendons les collaborateurs acteurs de leurs journées de travail. Ainsi, nous remettons le plaisir au centre des tâches quotidiennes ce qui permet de l’amélioration de la performance globale de l’entreprise au service de sa croissance.
+Cette solution permet de casser les silos existants et de rendre plus autonome les collaborateurs sur des projets innovants.&lt;/p&gt;
+
+&lt;p&gt;En effet, l’outil permet à chaque collaborateur de mettre à profit toutes ses compétences qu’il n’exerce pas forcément dans l’entreprise. D’autres collaborateurs peuvent aussi faire émerger des compétences et/ou talents cachés de leurs collègues.
+L’objectif final étant d’utiliser 100% des compétences et talents des collaborateurs au service de l’entreprise et de ses projets innovants.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 24 Nov 2014 11:54:46 -0500</pubDate>
-        <link>http://animax.management/icons</link>
-        <guid isPermaLink="true">http://animax.management/icons</guid>
+        <pubDate>Mon, 08 Dec 2014 11:54:46 -0500</pubDate>
+        <link>http://animax.management/shaker</link>
+        <guid isPermaLink="true">http://animax.management/shaker</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Happy Work</title>
+        <description>&lt;p&gt;1 – En quoi la solution répond à la performance de l’entreprise en libérant ses collaborateurs ?
+C’est une solution :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Simple&lt;/li&gt;
+  &lt;li&gt;Ludique&lt;/li&gt;
+  &lt;li&gt;fédératrice&lt;/li&gt;
+  &lt;li&gt;Accessible&lt;/li&gt;
+  &lt;li&gt;Efficace&lt;/li&gt;
+  &lt;li&gt;rentable &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;On crée des espaces favorisant des initiatives fédératrices de bonne humeur qui peuvent se transmettre sans processus compliqué…
+Les collaborateurs se sentent plus motivés et dégagent une meilleure productivité
+Résultats implacables : plus de présentéisme, moins de burn out et d’arrêts de complaisance et  performance au rendez-vous&lt;/p&gt;
+
+&lt;p&gt;2 – En quoi cette solution est innovante ?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Plateforme collaborative avec solutions  open source&lt;/li&gt;
+  &lt;li&gt;Concept ouvert&lt;/li&gt;
+  &lt;li&gt;Outils à la carte facultatif&lt;/li&gt;
+  &lt;li&gt;Approche certifiée, labellisée&lt;/li&gt;
+  &lt;li&gt;Partage des responsabilités&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ce concept est ouvert à tous avec des outils  à la carte facultatif. Chacun choisit son niveau du débutant à expert et suivant le « risque ou le degré d’exposition » qu’il se sent prêt à prendre.
+De plus, cette approche peut être certifiée à la fois par les salariés, la Direction et des experts externes (cette certification devient ainsi un indicateur et sert de référence au sein d’une communauté adhérente « happy work ».&lt;/p&gt;
+
+&lt;p&gt;Enfin, avec cette solution « happy work », les salariés partagent la responsabilité du climat et l’ambiance de l’entreprise . Chaque acteur de l’entreprise est responsabilisé&lt;/p&gt;
+
+&lt;p&gt;3 – Comment convaincre une entreprise de l’utiliser ?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Coût faible&lt;/li&gt;
+  &lt;li&gt;ça rapporte gros, &lt;/li&gt;
+  &lt;li&gt;partage d’expériences&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cette solution apporte de la bonne humeur et met du liant dans l’entreprise. Avec peu de moyens, on peut obtenir beaucoup et est à l’intiative de chacun (très collaboratif)&lt;/p&gt;
+
+&lt;p&gt;4 – Et si vous aviez eu 48 heures de plus ?&lt;/p&gt;
+
+&lt;p&gt;On aurait travaillé sur les modalités de concepts d’auto labellisation (interne, externe)
+On aurait fait rayonner le concept happy work en développant une communauté d’happy culteurs, en créant des manifestations fédératrices et en utilisant les réseaux sociaux pour partager les expériences au niveau international .&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Dec 2014 11:54:46 -0500</pubDate>
+        <link>http://animax.management/happy-work</link>
+        <guid isPermaLink="true">http://animax.management/happy-work</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: EOLE</title>
+        <description>&lt;p&gt;En quoi la solution répond à la performance de l’entreprise en libérant ses collaborateurs ?
+Elle permet à chacun :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;d’exprimer ses « nuages »&lt;/li&gt;
+  &lt;li&gt;de se mettre en responsabilité de faire progresser l’entreprise
+Chacun s’exprime, enrichi le débat et vote sans aucune censure.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En quoi est-ce innovant ?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Parce que les collaborateurs qui le souhaitent (liberté) sont responsabilisés dans l’identification et le traitement des difficultés qu’ils rencontre.&lt;/li&gt;
+  &lt;li&gt;Ils peuvent apporter leurs compétence sur un projet en dehors de leur métier-expertise.&lt;/li&gt;
+  &lt;li&gt;La « météo » joue le rôle d’un reporting dynamique sur la perception qu’on les collaborateurs du positionnement de l’entreprise par rapport à son projet, ses valeurs.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 08 Dec 2014 11:54:46 -0500</pubDate>
+        <link>http://animax.management/eole</link>
+        <guid isPermaLink="true">http://animax.management/eole</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Efficient Reporting</title>
+        <description>&lt;p&gt;En quoi la solution répond à la performance de l’entreprise, en libérant ses collaborateurs : &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Solliciter les collaborateurs, les responsabiliser&lt;/li&gt;
+  &lt;li&gt;Permettre aux collaborateurs de s’exprimer au travers d’indicateurs choisis collégialement et partagés&lt;/li&gt;
+  &lt;li&gt;Réduire les contrôles sur les dimensions non pertinentes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En quoi la solution est innovante ?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Combine Efficience et Satisfaction&lt;/li&gt;
+  &lt;li&gt;Est simple d’utilisation&lt;/li&gt;
+  &lt;li&gt;Implique tous les acteurs de l’entreprise&lt;/li&gt;
+  &lt;li&gt;Génère un reporting instantané&lt;/li&gt;
+  &lt;li&gt;Un reporting accessible à tous, décloisonné&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 08 Dec 2014 11:54:46 -0500</pubDate>
+        <link>http://animax.management/efficient-reporting</link>
+        <guid isPermaLink="true">http://animax.management/efficient-reporting</guid>
         
         
         <category>project</category>
@@ -223,33 +339,6 @@ ils définissent, choisissent et valident leur itinéraire de connaissance,&lt;/
       </item>
     
       <item>
-        <title>Project: Plateforme de documentation de projets collaboratifs</title>
-        <description>&lt;h4 id=&quot;un-outil-de-documentation-pour-museomix&quot;&gt;Un outil de documentation pour Museomix&lt;/h4&gt;
-&lt;p&gt;Depuis l’origine de Museomix, en 2011 à Paris, la volonté a été de documenter les projets réalisés par les participants. Mais ceci a été fait de manière plus ou moins réussie, en essayant plusieurs méthodes, successivement… À Montréal, nous avons finalement proposé au reste de la communauté internationale de développer une plateforme spécifique. Elle est testée localement à Montréal pour l’édition de 2014, avec l’ambition de servir les projets internationaux en 2015. &lt;/p&gt;
-
-&lt;h4 id=&quot;fonctionnalits&quot;&gt;Fonctionnalités&lt;/h4&gt;
-&lt;p&gt;La plateforme est développée en Node.js, ce qui lui permet d’être réactive en temps réel. 
-Les utilisateurs peuvent facilement créer un compte, puis lancer un projet, sur lequel ils peuvent inviter d’autres utilisateurs. Les projets sont ensuite découpés en deux parties principales (description et instructions), chacune permettant d’ajouter du texte, des images, vidéos et fichiers. &lt;/p&gt;
-
-&lt;h4 id=&quot;et-aprs-&quot;&gt;Et après ?&lt;/h4&gt;
-&lt;p&gt;Nous voulons que la plateforme permette aux projets de vivre au-delà de l’événement, par exemple en permettant aux porteurs de projets de poster des ‘updates’. 
-Nous voulons aussi tester la plateforme sur d’autres événements que Museomix et sur d’autres sujets. &lt;/p&gt;
-
-&lt;h4 id=&quot;un-manque--combler-&quot;&gt;Un manque à combler ?&lt;/h4&gt;
-&lt;p&gt;Aujourd’hui, aucune plateforme ne permet de documenter des projets collaboratifs, non finis, qui mélangent &lt;em&gt;hardware&lt;/em&gt; et &lt;em&gt;software&lt;/em&gt;. C’est l’objectif que nous nous donnons avec cette plateforme. &lt;/p&gt;
-
-&lt;p&gt;Si le projet vous intéresse, que vous voulez contribuer et / ou l’expérimenter, n’hésitez pas à nous contacter.  &lt;/p&gt;
-</description>
-        <pubDate>Tue, 28 Oct 2014 12:54:46 -0400</pubDate>
-        <link>http://animax.management/platform</link>
-        <guid isPermaLink="true">http://animax.management/platform</guid>
-        
-        
-        <category>project</category>
-        
-      </item>
-    
-      <item>
         <title>Blog: Lancement réussi pour SpaceApps MTL</title>
         <description>&lt;p&gt;TinkTank a pris en charge l’organisation de Space Apps à Montréal en 2014. Nous avons envahi le Planétarium Rio Tinto Alcan pour 2 jours de fun autour de l’exploration spatiale ! &lt;/p&gt;
 
@@ -317,11 +406,11 @@ A l’année prochaine pour une nouvelle édition ! &lt;/p&gt;
                 <h4>A propos</h4>
                 <div class="hline-w"></div>
                 <p>Animax : Le lab du management</p>
-                <p>Le collectif Animax réunit une équipe de professionnels avec l'envie commune de vouloir insufler une nouvelle manière de faire du management.</p>
+                <p>Atelier de création collaborative par prototypage rapide de conception de solutions innovantes pour transformer la management et créer durablement plus de confiance, d'autonomie, d'initiative, d'innovation, de coopération, de performance pour l'entreprise, de satisfaction et de bien-être pour l'Homme au travail.</p>
                 <p>Notre site est construit avec <a href="http://jekyllrb.com/">Jekyll</a> à partir du thème <a href="https://github.com/st4ple/solid-jekyll">Solid.</a></p>
                 <p><a href="https://github.com/TinkTankMTL/TinkTankMTL.github.io"><i class="fa fa-github"></i></a></p>
             </div>
-            <div class="col-sm-2">
+            <div class="col-sm-2 centered">
                 <img src="/assets/img/logo_Animax_nb.png" class="img-responsive">
                 <div class="spacing"></div>
                     

@@ -6,7 +6,8 @@ videolink: "114807565"
 date:   2014-12-8 16:54:46
 categories:
 - project
-img: manivelle.jpg
+img: voyageo.jpg
+teampic: team_voyageo.jpg
 carousel:
 - manivelle1.jpg
 - manivelle2.jpg
